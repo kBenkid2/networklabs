@@ -1,7 +1,5 @@
 # 🌐 Network Labs
 
-> **Họ tên:** Vũ Văn Kiệt  
-> **Mục tiêu:** Network Engineer | CCNA  
 > **Platform:** EVE-NG, Cisco IOS, Python  
 
 ---
