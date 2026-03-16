@@ -7,18 +7,7 @@
 
 ## 📐 Topology
 
-```
-                    [R1] - Loopback: 203.0.113.1 (giả lập Internet)
-                   /    \
-         10.1.2.0/30    10.2.3.0/30
-                /            \
-          [Coresw1]--L3--[Coresw2]
-           /    \        /    \
-       [swAcc1]          [swAcc2]
-       /     \           /     \
-     PC1    PC3        PC2    PC4
-   vlan100 vlan200   vlan100 vlan200
-```
+![Topology](SME.png)
 
 ---
 
